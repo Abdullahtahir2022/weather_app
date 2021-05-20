@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text">20dp</dimen>
+    <dimen name="subCard_dimension">11dp</dimen>
+    <dimen name="subCard_cornerR">10dp</dimen>
+    <dimen name="subCard_E">15dp</dimen>
+    <dimen name="mainCard_dimension">13dp</dimen>
+</resources>
